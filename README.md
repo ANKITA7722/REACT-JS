@@ -2,7 +2,7 @@ Date:-21/09/2024
 Day:-Saturday
 
 
-:-css Slyling
+:-CSS Slyling
 
 const App=()=>{
     return(
@@ -11,7 +11,7 @@ const App=()=>{
         textDecoration:"underline",fontFamily:"arial"}}>
         Welcome !!!</h1>
 
-        <h2 style={{color:"green",
+         <h2 style={{color:"green",
         textDecoration:"Wevy",fontFamily:"verdana"}}>
         We are Developer!!!</h2>
 
@@ -21,6 +21,7 @@ const App=()=>{
     
     </>
     )
+
 }
 export default App;
 
